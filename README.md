@@ -44,6 +44,8 @@
 " style="margin-right: 10px;" />
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white
 " style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
+" style="margin-right: 10px;" />
 
 
 

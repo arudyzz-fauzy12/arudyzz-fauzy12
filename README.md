@@ -48,11 +48,10 @@
 " style="margin-right: 10px;" />
 
 
-
 ### 💻 Proyek yang pernah saya kerjakan
-- 📚 Membuat Website CRUD Absensi menggunakan Framewrok Laravel.
+- 📚 Membuat Website CRUD Absensi menggunakan Framework Laravel.
 - 🎮 Membuat Game Tebak Objek menggunakan platform pengembangan game bernama PhaserJS.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
